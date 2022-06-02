@@ -40,9 +40,9 @@ public class CardTrickICE1 {
         System.out.print("select suit :");
         String suit = obj.nextLine();
        
-      /** Card luckyCard = new Card(); //hard coded
+       Card luckyCard = new Card(); //hard coded
        luckyCard.setValue(7);
-       luckyCard.setSuits("clubs");*/
+       luckyCard.setSuits("clubs");
         
         
         
